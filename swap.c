@@ -1,4 +1,4 @@
-####To swap two numbers using functions  #####
+**To swap two numbers using functions  **
 
 #include<stdio.h>  
 void swap(int ,int );  

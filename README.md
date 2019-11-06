@@ -51,6 +51,8 @@ int main()
 int c;  
 printf(" Enter the value of day");  
 scanf("%d",&c);  
+switch (c)  
+{
 case 1:  
 printf("Monday \n");  
 case 2:    
@@ -65,8 +67,9 @@ case 6:
 printf("Saturday \n");  
 case 7:    
 printf("Sunday \n");  
-else  
-printf("Wrong choice \n");  
+default :    
+printf("Wrong choice \n");
+}  
 return 0;  
 }  
 

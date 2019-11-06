@@ -43,7 +43,7 @@ return 0;
 }  
 
 
- #### 3. To print week days using if else statement 
+ #### 3. To print week days using switch statement 
 
 #include<stdio.h>  
 int main()  
@@ -51,19 +51,19 @@ int main()
 int c;  
 printf(" Enter the value of day");  
 scanf("%d",&c);  
-if(c==1)  
+case 1:  
 printf("Monday \n");  
-else if(c==2)  
+case 2:    
 printf("Tuesday  \n");  
-else if(c==3)  
+case 3:    
 printf("Wednesday \n");  
-else if(c==4)  
+case 4:    
 printf("Thursday \n");  
-else if(c==5)  
+case 5:    
 printf("Friday \n");  
-else if(c==6)  
+case 6:    
 printf("Saturday \n");  
-else if(c==7)  
+case 7:    
 printf("Sunday \n");  
 else  
 printf("Wrong choice \n");  

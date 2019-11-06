@@ -52,7 +52,7 @@ int c;
 printf(" Enter the value of day");  
 scanf("%d",&c);  
 switch (c)  
-{
+{  
 case 1:  
 printf("Monday \n");  
 case 2:    

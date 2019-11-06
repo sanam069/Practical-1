@@ -1,8 +1,8 @@
 
 # Practical-file
   #        **PROGRAMMING FOR PROBLEM SOLVING ESC-18105**
-##   NAME- *YUVRAJ KHANNA*
-##   ROLL NO- *1915087*
+##   NAME- *Tushar Garg*
+##   ROLL NO- *1915082*
 ##   BRANCH- *COMPUTER SCIENCE & ENGINEERING*
 ##   SECTION- *CS(B)*   
 

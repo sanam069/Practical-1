@@ -121,7 +121,7 @@ temp=number;
 while(temp>0)  
 {  
 digit=temp%10;  
-arm=arm+(digit*digit*digit);  
+arm=arm+(digit  *  digit  *  digit);  
 temp/=10;   
 }   
 if(arm==number)  

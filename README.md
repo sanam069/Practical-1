@@ -1,8 +1,8 @@
 
 # Practical-file
   #        **PROGRAMMING FOR PROBLEM SOLVING ESC-18105**
-##   NAME- *Tushar Garg*
-##   ROLL NO- *1915082*
+##   NAME- *Sanamdeep Singh*
+##   ROLL NO- *1915069*
 ##   BRANCH- *COMPUTER SCIENCE & ENGINEERING*
 ##   SECTION- *CS(B)*   
 
